@@ -1,0 +1,23 @@
+{
+  "name": "cn.org.vrcd.vpm.aaas.xuan25-player-voice-system-ext",
+  "displayName": "An Augmented Assembly System - Xuan25's Player Voice System Ext",
+  "version": "0.1.0",
+  "hideInEditor": false,
+  "description": "Xuan25's Player Voice System 的扩展",
+  "unity": "2022.3",
+  "author": {
+    "email": "us@vrcd.org.cn",
+    "name": "VRCD",
+    "url": "https://www.vrcd.org.cn"
+  },
+  "changelogUrl": "https://github.com/vrcd-community/AAAS/releases",
+  "documentationUrl": "https://github.com/vrcd-community/AAAS/",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/vrcd-community/AAAS/blob/main/LICENSE.md",
+  "keywords": [
+    "vrchat"
+  ],
+  "vpmDependencies": {
+    "com.xuan25.player-voice-system": "^0.1.0"
+  }
+}
