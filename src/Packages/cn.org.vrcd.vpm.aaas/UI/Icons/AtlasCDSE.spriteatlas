@@ -91,19 +91,19 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 5149ba4b92a591b4fb8948af9117ec09, type: 3}
   - {fileID: 21300000, guid: b1a8093f5995e834c97fca719dcb6609, type: 3}
   m_PackedSpriteNamesToIndex:
-  - lock-open
-  - pause
-  - camera
-  - pen
-  - "\u4F11\u61A9\u533A"
-  - mic
-  - aperture
-  - location
-  - boxes
-  - play
-  - track
-  - banknote
+  - LockOpen
+  - Pause
+  - Camera
+  - Pen
+  - Rest
+  - Mic
+  - Aperture
+  - Location
+  - Boxes
+  - Play
+  - Track
+  - BankNote
   - ADDP
   m_RenderDataMap: {}
-  m_Tag: atlas_CDSE
+  m_Tag: AtlasCDSE
   m_IsVariant: 0

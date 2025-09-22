@@ -54,12 +54,14 @@ MonoBehaviour:
     PrefabModifications: []
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 4501583186575505297}
+  scalerOverrideIfHeld: 0
   gainScaler: 1.25
   distanceNearScaler: 1
   distanceFarScaler: 5
   volumetricRadiusScaler: 1
   lowpassDisable: 0
   isEnabledLocal: 1
+  animator: {fileID: 0}
 --- !u!114 &4501583186575505297
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -267,6 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AllowCollisionOwnershipTransfer: 1
+  ForceKinematicOnRemote: 0
 --- !u!114 &7886075629634234145
 MonoBehaviour:
   m_ObjectHideFlags: 0

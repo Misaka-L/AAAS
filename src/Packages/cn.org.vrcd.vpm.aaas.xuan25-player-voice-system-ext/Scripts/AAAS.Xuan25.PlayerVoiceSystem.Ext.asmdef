@@ -1,0 +1,17 @@
+﻿{
+    "name": "AAAS.Xuan25.PlayerVoiceSystem.Ext",
+    "rootNamespace": "AAAS.Xuan25.PlayerVoiceSystem.Ext",
+    "references": [
+        "GUID:99835874ee819da44948776e0df4ff1d",
+        "GUID:b061dabd8d9346d4eb7c8ec1730db922"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
